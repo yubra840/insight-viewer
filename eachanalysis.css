@@ -1,0 +1,17 @@
+.analysis-detail {
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.analysis-detail h1 {
+  margin-bottom: 10px;
+}
+
+.analysis-detail .full-details {
+  margin-top: 20px;
+  line-height: 1.7;
+  white-space: pre-wrap; /* Preserve line breaks */
+}
