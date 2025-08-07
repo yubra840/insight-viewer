@@ -8,7 +8,7 @@ This project demonstrates frontend skills such as responsive design, client-side
 
 ## 🌐 Live Demo
 
-[https://yourusername.github.io/insight-viewer/](https://yourusername.github.io/insight-viewer/)  
+[https://yubra840.github.io/insight-viewer/](https://yubra840.github.io/insight-viewer/)  
 _(Update this once GitHub Pages is enabled)_
 
 ---
